@@ -1,0 +1,8 @@
+POST http://127.0.0.1:8000/api/books?b_name=水浒传&b_price=9.9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-09T023832.200.json
+
+###
+

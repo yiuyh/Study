@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/workspace/MyContact/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="Silver">#c0c0c0</color>
+    <color name="TextColorBlack">#FF000000</color>
+    <color name="TextColorBlue">#0066CC</color>
+    <color name="TextColorBlue1">#FF080ad3</color>
+    <color name="TextColorGray">#FF505050</color>
+    <color name="TextColorGreen">#FF00FF00</color>
+    <color name="TextColorGreen1">#FF336619</color>
+    <color name="TextColorRed">#FFE26926</color>
+    <color name="TextColorRed1">#FFFF0000</color>
+    <color name="TextColorYellow1">#FFFFFF00</color>
+    <color name="background_color">#f4f4f4</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="border_line">#ffd7dadc</color>
+    <color name="button_selected">#ff419de4</color>
+    <color name="button_unselected">#ff54acea</color>
+    <color name="gray">#ff666666</color>
+    <color name="gray_bold">#FF606060</color>
+    <color name="info_panel_bg">#ffeeeeee</color>
+    <color name="movie_name">#FF371A12</color>
+    <color name="noread">#ff4b4b4b</color>
+    <color name="orangered">#ff5900</color>
+    <color name="readed">#ffc05500</color>
+    <color name="red">#ffff0000</color>
+    <color name="title_bg">#ff54acea</color>
+    <color name="traffic_bg">#ffecf0f1</color>
+    <color name="traffic_data">#ff666666</color>
+    <color name="traffic_txt">#ff414141</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent01">#9000</color>
+    <color name="white">#ffffffff</color>
+    <color name="window_bg">#fff0f3f6</color>
+    <color name="yello">#fff9bf16</color>
+    <color name="zzblack">#000</color>
+    <color name="zzblue">#3f5c84</color>
+    <color name="zzyellow">#c06622</color>
+    <!-- From: file:/D:/android/workspace/MyContact/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">我的通讯录</string>
+    <string name="carol">carol</string>
+    <string name="hello">Hello World!</string>
+    <!-- From: file:/D:/android/workspace/MyContact/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="topbar_bg">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/top_bar_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">46.0dip</item>
+    </style>
+    <style name="topbar_btn">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="topbar_left_btn" parent="@style/topbar_btn">
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="topbar_right_btn" parent="@style/topbar_btn">
+        <item name="android:layout_marginRight">10.0dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="topbar_text">
+	    <item name="android:textSize">23sp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:textColor">#ffffffff</item>
+	    <item name="android:layout_gravity">center</item>
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:shadowColor">#40000000</item>
+	    <item name="android:shadowDy">-2.0</item>
+	    <item name="android:shadowRadius">4.0</item>
+	    <item name="android:layout_centerInParent">true</item>
+    </style>
+</resources>

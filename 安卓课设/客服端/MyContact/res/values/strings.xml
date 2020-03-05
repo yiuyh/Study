@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">我的通讯录</string>
+	<string name="carol">carol</string>
+	<string name="yonghuming">用户名：</string>
+	<string name="mima">密码：</string>
+	<string name="dianhuahaoma">电话号码：</string>
+	<string name="hint">请填写登录账号</string>
+	<string name="login">Login</string>
+	<string name="chenggong">登录成功</string>
+	<string name="shibai">登录失败</string>
+</resources>
